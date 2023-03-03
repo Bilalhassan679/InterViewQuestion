@@ -1,0 +1,11 @@
+// 7. What is the output of the following code?
+//How to add a property to an object on First and Last index?
+// const a=[1,2,3];
+a=[0,1 ...a] or  a=[...a,9,0]
+
+
+// 10. Is Javascript is single threaded or multi threaded?
+single threaded One work only one time...
+
+// 13. how to switch value a and b? a=1,b=2?
+[a,b]=[b,a];
